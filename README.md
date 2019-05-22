@@ -2,7 +2,7 @@
 <h2>Introdução</h2>
 <p>Este projeto objetiva construir um repositório online no qual 
 alunos dos cursos de Engenharia de Computação, Tecnologia em Análise e Desenvovilmento de Sistemas
-e Engenharia de Software do câmpus da UTFPR de Cornélio Procópio, poderão acessar slides, exemplos e material de
+e Engenharia de Software do câmpus da UTFPR de Cornélio Procópio, poderão acessar slides, exemplos e materiais de
 documentação referentes a elaboração e condução da Revisão Sistemática(RS).</p>
 ___________________________________________________________________________________________________________<br>
 <h3>Objetivos</h3>
@@ -13,4 +13,4 @@ ________________________________________________________________________________
 
 <h3>Colaboradores</h3>
 <p><b>Katia Romero Felizardo Scannavino</b> - (Doutora em Ciências da Computação, USP, 2012)</p>
-<p><b>Tamyres Yukari Ono</b> - (Discente ensino superior em Tecnologia em Análise e Desenvolvimento de Sistemas)</p>
+<p><b>Tamyres Yukari Ono</b> - (Graduanda em Tecnologia em Análise e Desenvolvimento de Sistemas)</p>
